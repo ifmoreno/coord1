@@ -1,0 +1,5 @@
+id,question,choice1,choice2,choice3,choice4,solution
+1,¿Cuántas personas en total hay en su grupo? (contándolo a usted),5,4,10,3,4
+3,¿Su grupo tendrá las mismas personas durante todas las rondas?,Sí,No,A veces,La mayoría de veces,Sí
+2,Según el cuadro de pagos ¿Cuál fue el esfuerzo mínimo del grupo?,0,2,4,8,2
+4,Según el cuadro de pagos  ¿Quién dio el esfuerzo mínimo?,Usted,Otro jugador del grupo,No se sabe,Ambos,Otro jugador del grupo
